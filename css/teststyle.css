@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+
+    color: brown;
+}
+
+h1{
+    text-align: right;
+    font-weight: 900;
+}
+
+.container{
+
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+
+}
+
+.baslik{
+
+    border: 5px solid green;
+    border-radius: 10px;
+    box-shadow: -5px -5px 20px rgb(49, 8, 8);
+}
